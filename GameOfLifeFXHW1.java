@@ -19,7 +19,7 @@ import javafx.scene.shape.Rectangle;
 
 /**
  *
- * @author elevy
+ * @author glevy
  */
 public class GameOfLifeFXHW1 extends Application {
 
